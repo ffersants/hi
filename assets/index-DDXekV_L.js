@@ -3937,7 +3937,7 @@ const ql = at(Nl, [
 							href: "https://www.jaquelinesoarespsi.com/",
 							target: "_blank",
 						},
-						" Acessar "
+						" Link "
 					),
 				]),
 			],
@@ -4022,7 +4022,7 @@ const Xl = at(Bl, [
 							href: "https://siscoffee.vercel.app/",
 							target: "_blank",
 						},
-						" Acessar "
+						" Link "
 					),
 				]),
 			],
